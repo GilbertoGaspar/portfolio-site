@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/gilbertogaspar.github.io/static/css/main.2f1407d3.chunk.css",
-    "main.js": "/gilbertogaspar.github.io/static/js/main.0ddc2be0.chunk.js",
-    "main.js.map": "/gilbertogaspar.github.io/static/js/main.0ddc2be0.chunk.js.map",
-    "runtime-main.js": "/gilbertogaspar.github.io/static/js/runtime-main.8779f175.js",
-    "runtime-main.js.map": "/gilbertogaspar.github.io/static/js/runtime-main.8779f175.js.map",
-    "static/css/2.719603b0.chunk.css": "/gilbertogaspar.github.io/static/css/2.719603b0.chunk.css",
-    "static/js/2.ab0c3359.chunk.js": "/gilbertogaspar.github.io/static/js/2.ab0c3359.chunk.js",
-    "static/js/2.ab0c3359.chunk.js.map": "/gilbertogaspar.github.io/static/js/2.ab0c3359.chunk.js.map",
-    "index.html": "/gilbertogaspar.github.io/index.html",
-    "precache-manifest.6325befd0d22a15ecad74caeaf9be30c.js": "/gilbertogaspar.github.io/precache-manifest.6325befd0d22a15ecad74caeaf9be30c.js",
-    "service-worker.js": "/gilbertogaspar.github.io/service-worker.js",
-    "static/css/2.719603b0.chunk.css.map": "/gilbertogaspar.github.io/static/css/2.719603b0.chunk.css.map",
-    "static/css/main.2f1407d3.chunk.css.map": "/gilbertogaspar.github.io/static/css/main.2f1407d3.chunk.css.map",
-    "static/media/apbTrader.png": "/gilbertogaspar.github.io/static/media/apbTrader.d0490d7d.png",
-    "static/media/gg-movie-db.png": "/gilbertogaspar.github.io/static/media/gg-movie-db.ffdf9f8d.png",
-    "static/media/github.jpg": "/gilbertogaspar.github.io/static/media/github.a3ecd3fc.jpg",
-    "static/media/linkedin.jpg": "/gilbertogaspar.github.io/static/media/linkedin.e4e71e5f.jpg",
-    "static/media/projects.jpg": "/gilbertogaspar.github.io/static/media/projects.c79ad7f1.jpg",
-    "static/media/reduxTwitter.png": "/gilbertogaspar.github.io/static/media/reduxTwitter.fc1bb83e.png",
-    "static/media/youtubeMap.png": "/gilbertogaspar.github.io/static/media/youtubeMap.3ffa77db.png"
+    "main.css": "/static/css/main.2f1407d3.chunk.css",
+    "main.js": "/static/js/main.dd8796e2.chunk.js",
+    "main.js.map": "/static/js/main.dd8796e2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.40b20090.js",
+    "runtime-main.js.map": "/static/js/runtime-main.40b20090.js.map",
+    "static/css/2.719603b0.chunk.css": "/static/css/2.719603b0.chunk.css",
+    "static/js/2.ab0c3359.chunk.js": "/static/js/2.ab0c3359.chunk.js",
+    "static/js/2.ab0c3359.chunk.js.map": "/static/js/2.ab0c3359.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.917ed7adb47fec87c2f12bd1f508200c.js": "/precache-manifest.917ed7adb47fec87c2f12bd1f508200c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.719603b0.chunk.css.map": "/static/css/2.719603b0.chunk.css.map",
+    "static/css/main.2f1407d3.chunk.css.map": "/static/css/main.2f1407d3.chunk.css.map",
+    "static/media/apbTrader.png": "/static/media/apbTrader.d0490d7d.png",
+    "static/media/gg-movie-db.png": "/static/media/gg-movie-db.ffdf9f8d.png",
+    "static/media/github.jpg": "/static/media/github.a3ecd3fc.jpg",
+    "static/media/linkedin.jpg": "/static/media/linkedin.e4e71e5f.jpg",
+    "static/media/projects.jpg": "/static/media/projects.c79ad7f1.jpg",
+    "static/media/reduxTwitter.png": "/static/media/reduxTwitter.fc1bb83e.png",
+    "static/media/youtubeMap.png": "/static/media/youtubeMap.3ffa77db.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8779f175.js",
+    "static/js/runtime-main.40b20090.js",
     "static/css/2.719603b0.chunk.css",
     "static/js/2.ab0c3359.chunk.js",
     "static/css/main.2f1407d3.chunk.css",
-    "static/js/main.0ddc2be0.chunk.js"
+    "static/js/main.dd8796e2.chunk.js"
   ]
 }
