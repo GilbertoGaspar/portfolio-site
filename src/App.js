@@ -14,6 +14,11 @@ import './App.css';
 
 function App() {
   const [owner] = useState('Gilberto Gaspar');
+  const [socials] = useState({
+    github: 'https://github.com/GilbertoGaspar',
+    linkedin: 'https://www.linkedin.com/in/gaspargilberto/',
+    email: 'gilbertogaspar1996@gmail.com',
+  });
   const [pages] = useState({
     home: {
       title: 'Be Relentless',
@@ -86,7 +91,7 @@ function App() {
           />
           <Route render={() => <h1>404 Page</h1>} />
         </Switch>
-        <Footer owner={owner} />
+        <Footer owner={owner} socials={socials} />
       </Container>
     </HashRouter>
   );
