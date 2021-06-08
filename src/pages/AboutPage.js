@@ -9,13 +9,13 @@ export default function AboutPage({ title }) {
       <Hero title={title}></Hero>
       <Content>
         <p>
-          Hello, my name is Gilberto. I'm a front-end web developer with
-          experience in JavaScript, React, Redux, CSS, SCSS, Node JS, Express
-          JS, MySQL and MongoDB.
+          Hello, my name is Gilberto Gaspar. I'm a front-end web developer with
+          experience in JavaScript, React, Redux, HTML, CSS, SCSS, Node JS,
+          Express JS, MySQL, and MongoDB.
         </p>{' '}
         <p>
           I grew up in the South Florida area and currently live in Miami, FL.
-          As a child I've always had a fascination with computers and how they
+          As a child, I've always had a fascination with computers and how they
           worked.
         </p>{' '}
         <p>
