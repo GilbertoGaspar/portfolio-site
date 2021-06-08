@@ -17,17 +17,17 @@ function App() {
   const [pages] = useState({
     home: {
       title: 'Be Relentless',
-      subTitle: 'Projects that make a difference'
+      subTitle: 'Projects that make a difference',
     },
     about: {
-      title: 'About Me'
+      title: 'About Me',
     },
     contact: {
-      title: 'Lets Talk'
+      title: 'Lets Talk',
     },
     projects: {
-      title: 'My Projects'
-    }
+      title: 'My Projects',
+    },
   });
 
   const { home, about, contact, projects } = pages;
