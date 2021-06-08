@@ -1,10 +1,11 @@
 import React from 'react';
+import { motion } from 'framer-motion';
 
 import CardInfo from './CardInfo';
 
 export default function Card({ item, click }) {
   return (
-    <div className='d-inline-block g-card'>
+    <motion.div whileHover={{ scale: 1.05 }} className='d-inline-block g-card'>
       <img
         className='g-card-image'
         src={item.imgSrc}
@@ -22,6 +23,6 @@ export default function Card({ item, click }) {
           isWithInSite={item.isWithInSite}
         />
       )}
-    </div>
+    </motion.div>
   );
 }
