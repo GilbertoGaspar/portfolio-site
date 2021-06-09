@@ -11,6 +11,7 @@ import ContactPage from './pages/ContactPage';
 import ProjectsPage from './pages/ProjectsPage';
 
 import './App.css';
+import { motion } from 'framer-motion';
 
 function App() {
   const [owner] = useState('Gilberto Gaspar');
@@ -51,16 +52,40 @@ function App() {
           <Navbar.Collapse id='navbar-toggle'>
             <Nav className='ml-auto'>
               <NavLink exact className='nav-link' to='/'>
-                Home
+                <motion.div
+                  initial={{ opacity: 0, y: -100 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: 0.3, stiffness: 300 }}
+                >
+                  Home
+                </motion.div>
               </NavLink>
               <NavLink className='nav-link' to='/projects'>
-                Projects
+                <motion.div
+                  initial={{ opacity: 0, y: -100 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: 0.35, stiffness: 300 }}
+                >
+                  Projects
+                </motion.div>
               </NavLink>
               <NavLink className='nav-link' to='/about'>
-                About
+                <motion.div
+                  initial={{ opacity: 0, y: -100 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: 0.4, stiffness: 300 }}
+                >
+                  About
+                </motion.div>
               </NavLink>
               <NavLink className='nav-link' to='/contact'>
-                Contact
+                <motion.div
+                  initial={{ opacity: 0, y: -100 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: 0.45, stiffness: 300 }}
+                >
+                  Contact
+                </motion.div>
               </NavLink>
             </Nav>
           </Navbar.Collapse>

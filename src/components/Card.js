@@ -5,7 +5,13 @@ import CardInfo from './CardInfo';
 
 export default function Card({ item, click }) {
   return (
-    <motion.div whileHover={{ scale: 1.05 }} className='d-inline-block g-card'>
+    <motion.div
+      whileHover={{ scale: 1.05 }}
+      initial={{ opacity: 0, y: -100 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ delay: 0.3, scale: { delay: 0 } }}
+      className='d-inline-block g-card'
+    >
       <img
         className='g-card-image'
         src={item.imgSrc}
