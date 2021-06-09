@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { HashRouter, Switch, Route, Link } from 'react-router-dom';
+import { HashRouter, Switch, Route, Link, NavLink } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
@@ -50,18 +50,18 @@ function App() {
           <Navbar.Toggle className='border-0' aria-controls='navbar-toggle' />
           <Navbar.Collapse id='navbar-toggle'>
             <Nav className='ml-auto'>
-              <Link className='nav-link' to='/'>
+              <NavLink exact className='nav-link' to='/'>
                 Home
-              </Link>
-              <Link className='nav-link' to='/projects'>
+              </NavLink>
+              <NavLink className='nav-link' to='/projects'>
                 Projects
-              </Link>
-              <Link className='nav-link' to='/about'>
+              </NavLink>
+              <NavLink className='nav-link' to='/about'>
                 About
-              </Link>
-              <Link className='nav-link' to='/contact'>
+              </NavLink>
+              <NavLink className='nav-link' to='/contact'>
                 Contact
-              </Link>
+              </NavLink>
             </Nav>
           </Navbar.Collapse>
         </Navbar>
