@@ -9,14 +9,10 @@ export default function AboutPage({ title }) {
       <Hero title={title}></Hero>
       <Content>
         <p>
-          Hello, my name is Gilberto Gaspar. I'm a front-end web developer with
-          experience in JavaScript, React, Redux, HTML, CSS, SCSS, Node JS,
-          Express JS, MySQL, and MongoDB.
+          Hello,
         </p>{' '}
         <p>
-          I grew up in the South Florida area and currently live in Miami, FL.
-          As a child, I've always had a fascination with computers and how they
-          worked.
+          I'm a Software Developer with a passion for crafting responsive, accessible, and scalable web applications using ReactJS and modern JavaScript frameworks. Adept at collaborating in agile environments, integrating innovative features, and delivering intuitive user experiences. Continuously learning and building to stay at the forefront of web technologies.
         </p>{' '}
         <p>
           My goal is to provide value to the companies I work for by creating a

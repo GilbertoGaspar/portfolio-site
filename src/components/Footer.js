@@ -6,6 +6,8 @@ import { FaGithubSquare, FaLinkedin } from 'react-icons/fa';
 import { ImMail } from 'react-icons/im';
 
 function Footer({ owner, socials }) {
+  const currentYear = new Date().getFullYear();
+
   return (
     <footer className='mt-5'>
       <Container fluid={true}>
@@ -38,7 +40,7 @@ function Footer({ owner, socials }) {
             </a>
           </Col>
           <Col className='p-0 d-flex justify-content-end' md={3}>
-            Copyright © 2021 - {owner}. All Rights Reserved.
+            Copyright © {currentYear} - {owner}. All Rights Reserved.
           </Col>
         </Row>
       </Container>

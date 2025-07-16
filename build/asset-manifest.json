@@ -1,31 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f1407d3.chunk.css",
-    "main.js": "/static/js/main.dd8796e2.chunk.js",
-    "main.js.map": "/static/js/main.dd8796e2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.40b20090.js",
-    "runtime-main.js.map": "/static/js/runtime-main.40b20090.js.map",
-    "static/css/2.719603b0.chunk.css": "/static/css/2.719603b0.chunk.css",
-    "static/js/2.ab0c3359.chunk.js": "/static/js/2.ab0c3359.chunk.js",
-    "static/js/2.ab0c3359.chunk.js.map": "/static/js/2.ab0c3359.chunk.js.map",
+    "main.css": "/static/css/main.ece5e6ed.css",
+    "main.js": "/static/js/main.e45e72f1.js",
+    "static/media/apbTrader.png": "/static/media/apbTrader.48bf0cb683e410f58d9e.png",
+    "static/media/projects.jpg": "/static/media/projects.58c3a3afba5baa047dec.jpg",
+    "static/media/gg-movie-db.png": "/static/media/gg-movie-db.09761f1e5a357543fb6e.png",
+    "static/media/youtubeMap.png": "/static/media/youtubeMap.f424f2c4b0a071b076e0.png",
+    "static/media/github.jpg": "/static/media/github.df5a8ee6c363309abcf6.jpg",
+    "static/media/linkedin.jpg": "/static/media/linkedin.3ad9659f275353b46ef7.jpg",
+    "static/media/reduxTwitter.png": "/static/media/reduxTwitter.91a2626a7342af359977.png",
+    "static/media/gg-habit-tracker.png": "/static/media/gg-habit-tracker.3480a4d8fe85fcc3a420.png",
     "index.html": "/index.html",
-    "precache-manifest.917ed7adb47fec87c2f12bd1f508200c.js": "/precache-manifest.917ed7adb47fec87c2f12bd1f508200c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.719603b0.chunk.css.map": "/static/css/2.719603b0.chunk.css.map",
-    "static/css/main.2f1407d3.chunk.css.map": "/static/css/main.2f1407d3.chunk.css.map",
-    "static/media/apbTrader.png": "/static/media/apbTrader.d0490d7d.png",
-    "static/media/gg-movie-db.png": "/static/media/gg-movie-db.ffdf9f8d.png",
-    "static/media/github.jpg": "/static/media/github.a3ecd3fc.jpg",
-    "static/media/linkedin.jpg": "/static/media/linkedin.e4e71e5f.jpg",
-    "static/media/projects.jpg": "/static/media/projects.c79ad7f1.jpg",
-    "static/media/reduxTwitter.png": "/static/media/reduxTwitter.fc1bb83e.png",
-    "static/media/youtubeMap.png": "/static/media/youtubeMap.3ffa77db.png"
+    "main.ece5e6ed.css.map": "/static/css/main.ece5e6ed.css.map",
+    "main.e45e72f1.js.map": "/static/js/main.e45e72f1.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.40b20090.js",
-    "static/css/2.719603b0.chunk.css",
-    "static/js/2.ab0c3359.chunk.js",
-    "static/css/main.2f1407d3.chunk.css",
-    "static/js/main.dd8796e2.chunk.js"
+    "static/css/main.ece5e6ed.css",
+    "static/js/main.e45e72f1.js"
   ]
 }
